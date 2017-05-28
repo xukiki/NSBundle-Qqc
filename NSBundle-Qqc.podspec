@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.requires_arc  = true
 
   s.name         = "NSBundle-Qqc"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "NSBundle-Qqc"
   s.homepage     = "https://github.com/xukiki/NSBundle-Qqc"
   s.source       = { :git => "https://github.com/xukiki/NSBundle-Qqc.git", :tag => "#{s.version}" }
